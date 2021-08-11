@@ -1,0 +1,114 @@
+*{
+     margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    background-color: rgb(194, 241, 238);
+}
+
+p{
+    font-size: 160%;
+    line-height: 155%;
+    padding: 5%;
+    text-indent: 3%;
+    text-align: justify;
+}
+h2{
+    font-size: 300%;
+    line-height: 155%;
+    padding: 0;
+    font-weight: 500;
+    color:rgba(18, 145, 50, 0.76);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a{
+    font-size: 150%;
+    color: rgb(70, 68, 76);
+    text-decoration: none;
+    font-weight: bold;
+    margin: 15px;
+}
+
+a:hover {
+    color:rgb(132, 198, 202);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+#wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+#banner-wrapper{
+    max-width: 1200px;
+    margin:0 auto;
+    padding: 0 0 3% 0;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    top: 0;
+    left: 0;
+}
+
+header #logo img{
+    margin: 25px;
+    float: left;
+    width: 75px;
+}
+#menu-icon{
+    display: none;
+    font-size: 50px;
+}
+ul{
+    list-style: none;
+}
+nav {
+    float:right ;
+    padding: 25px;
+}
+nav ul li a {
+    color:darkseagreen;
+}
+nav ul li{
+    font-size: 150%;
+    display: inline-block;
+}
+
+
+i{
+    color: rgb(255, 255, 255);
+    border-radius:15px;
+    
+}
+footer{
+    margin-top: 150px;
+    float: inline-start;
+    background-color: rgb(65, 174, 218);
+}
+h4{
+    color: rgb(255, 255, 255);
+    font-size: 150%;
+    margin-left: 10mm;
+    padding: 25px;
+}
+.left-col{
+    float: left;
+    margin: 0 auto;
+    width: 60%;
+    height: auto;
+    padding: 2%;
+    text-align: justify;
+    
+}
+.sidebar{
+    
+    
+}
